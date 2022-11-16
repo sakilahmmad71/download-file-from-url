@@ -1,0 +1,34 @@
+{
+	"name": "download-file-from-url",
+	"version": "1.0.0",
+	"description": "Download files simply from URL",
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sakilahmmad71/download-file-from-url.git"
+	},
+	"keywords": [
+		"url",
+		"uri",
+		"request",
+		"fils",
+		"image",
+		"download",
+		"download-file",
+		"download-file-from-url",
+		"download-file-using-url"
+	],
+	"author": {
+		"name": "Shakil Ahmed",
+		"email": "sakilahmmad71@gmail.com",
+		"url": "https://github.com/sakilahmmad71"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/sakilahmmad71/download-file-from-url/issues"
+	},
+	"homepage": "https://github.com/sakilahmmad71/download-file-from-url#readme"
+}

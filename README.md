@@ -3,7 +3,7 @@
 # Install
 
 ```
-npm install download-file-from-url --save;
+npm install download-file-from-url --save
 ```
 
 # Example :
